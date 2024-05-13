@@ -4,15 +4,6 @@
 
 Welcome to the Boxing Club GitHub repository! This repository contains the source code for a boxing club website. The website is designed to provide information about the boxing club, its classes, schedule, and contact details, as well as allowing users to register for classes online.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Setup](#setup)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
 The Boxing Club website is built using HTML, CSS, and PHP. It provides essential information about the club, including its mission, classes offered, schedule, and contact information. Users can also register for classes through the website.
@@ -39,9 +30,4 @@ Once the setup is complete, you can access the Boxing Club website by navigating
 
 This project is licensed under the MIT License.
 
-## Setup
-
-To set up the Boxing Club website locally, follow these steps:
-
-1. Clone this repository to your local machine:
 
