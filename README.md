@@ -60,19 +60,3 @@ Once the setup is complete, you can access the Boxing Club website by navigating
 ## License
 
 This project is licensed under the MIT License. This means you are free to use, modify, and distribute the software for both personal and commercial purposes. For more details, please refer to the [MIT License](https://opensource.org/licenses/MIT).
-
-## Contribution
-
-Contributions to the Boxing Club project are welcome. Please adhere to the following guidelines:
-
-- Fork the repository and create a pull request with your proposed changes.
-- Ensure all code adheres to the existing style and conventions.
-- Include appropriate tests and documentation for any new features or changes.
-
-## Contact
-
-For further inquiries, support, or feedback, please contact the project maintainer at [email@example.com].
-
----
-
-Feel free to replace placeholders like `[email@example.com]` with actual contact information and make any other adjustments as needed.
